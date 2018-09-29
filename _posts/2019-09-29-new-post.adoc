@@ -3,4 +3,4 @@
 :page-navtitle: Name for posts feed goes here
 :page-root: ../../../
 
-Post content goes here
+Setting Up Jekyll with AsciiDoctor and Github
